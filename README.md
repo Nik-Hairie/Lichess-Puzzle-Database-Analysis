@@ -1,4 +1,4 @@
-<h1>Data Analysis: Lichess Puzzle Database</h1>
+<h1>Data Analysis: Lichess Puzzle Database (WIP)</h1>
 
 <h2>Introduction</h2>
 This is an analysis on Lichess Puzzle Database obtained from https://database.lichess.org/#puzzles. The database has over 3,080,529 chess puzzles to be analyzed. The puzzles database consists of fields as follows: PuzzleId, FEN, Moves, Rating, RatingDeviation, Popularity, NbPlays, Themes, GameUrl, OpeningFamily, OpeningVariation. Fields that were set aside includes PuzzleId, FEN, Moves, RatingDeviation, GameUrl, Opening Family and OpeningVariation. Data cleaning was performed on Rating, Popularity, NbPlays and Themes because it is relevant for the data analysis.
