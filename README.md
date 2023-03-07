@@ -40,7 +40,7 @@ This is an analysis on Lichess Puzzle Database obtained from https://database.li
 `<258,625 plays: Puzzles between 206,900 to 258,625 number of plays`
 
 `>=258,625 plays: Puzzles with more than 258,625 number of plays`
-
+<br/>
 
 <h2>Data categories</h2>
 
@@ -48,20 +48,17 @@ This is an analysis on Lichess Puzzle Database obtained from https://database.li
 
 - The Popularity field consists of puzzle ratings rated between -100 and 100. Popularity Range was added with 5 categories, 1 - Unpopular, 2 - Disliked, 3 - Mediate, 4 - Liked and 5 - Popular.  
 
-- The NbPlays field shows the number of plays the puzzle received. It consisted of number of plays ranging from 0 to 310341. NbPlays Range was added with 6 categories, <51,725, <103,450, <155,175, <206,900, <258,625 and >=258,625.
-<br/>
-
+- The NbPlays field shows the number of plays the puzzle received. It consisted of number of plays ranging from 0 to 310341. NbPlays Range was added with 6 categories, <51,725, <103,450, <155,175, <206,900, <258,625 and >=258,625. <br/>
 
 <h2>Languages and Programs Used</h2>
 
-- <b>Microsoft Excel (w/ Power Pivot Add-On)</b> 
-<br />
+- <b>Microsoft Excel (w/ Power Pivot Add-On)</b> <br />
 
 <h2>Analysis Result</h2>
 
 <p align="center">
 Dashboard 1: <br/>
-  <img src="https://user-images.githubusercontent.com/122200000/223208200-261d805c-d6be-42c2-aec2-d60ff9eed03f.png" alt="Dashboard 1"/>
+  <img src="https://user-images.githubusercontent.com/122200000/223376168-4b1bfc43-c8a0-45b5-96c2-b294a99e90aa.png" alt="Dashboard 1"/>
 </p>
 <br />
 
@@ -71,3 +68,17 @@ Dashboard 2:  <br/>
 <img src="https://user-images.githubusercontent.com/122200000/223208495-362094a3-a322-42d9-a82c-3b8a5427d729.png" alt="Dashboard 2"/>
 </p>
 <br />
+
+<h2>Discussions</h2>
+
+- To begin with, across the puzzle rating ranges based on popularity range and number of plays, <1800 puzzles have the most number of puzzles with a total of (1,270,692). This is followed by <1200 puzzles, <2200 puzzles and >=2200 puzzles with a total of (850,704), (596,376) and (362,757) respectively.
+
+- Next, across the popularity ranges based on the number of plays, Popular puzzles has the highest total of (2,861,397). This is followed by Liked, Mediate, Unpopular and Disliked puzzles with a total of (150,934), (30,306), (22,835) and (15,057) respectively.
+
+- It can also be seen that an overwhelming number of puzzles that are in the popular category have more number of plays. Most puzzles that are unpopular, disliked, mediate and liked tend to only get played less than (51,725) times.
+
+- The highest number of popular puzzles from the rating range comes from <1800 puzzles with a total of (1,270,692). This is followed by <1200 puzzles, <2200 puzzles and >=2200 puzzles with a total of (850,704), (596,376) and (362,757).
+
+- Majority of the puzzles tend to get played less than (51,725) times with an overwhelming total of (3,079,850). The remainder of (679) puzzles are played more than (103,450) times.
+
+- Across the puzzle rating ranges, popular puzzles has the highest number of puzzles with total of (2,861,397). This is followed by liked, mediate, unpopular and disliked with a total of (150,934), (30,306), (22,835) and (15,057) respectively.
