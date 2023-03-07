@@ -5,9 +5,9 @@ This is an analysis on Lichess Puzzle Database obtained from https://database.li
 
 <h2>Abbreviations</h2>
 
-- Puzzle Rating Range:
+- Puzzle Rating Range: (545 to 3024)
 
-`<1200: Puzzles rating  below 1200`
+`<1200: Puzzles rating below 1200`
 
 `<1800: Puzzles rating between 1200 and 1800`
 
@@ -15,7 +15,19 @@ This is an analysis on Lichess Puzzle Database obtained from https://database.li
 
 `>=2200: Puzzles rating more than 2200`
 
-- Puzzle Popularity Range:
+- Puzzle Popularity Range: (-100 to 100)
+
+`1 - Unpopular: Puzzles popularity below -60`
+
+`2 - Disliked: Puzzles popularity between -60 and -20`
+
+`3 - Mediate: Puzzles popularity between -20 and 20`
+
+`4 - Liked: Puzzles popularity between 20 and 60`
+
+`5 - Popular: Puzzles popularity between 60 and 100`
+
+- NbPlays Range: (0 to 310341)
 
 `<51,725 plays: Puzzles with less than 51,725 number of plays`
 
@@ -36,7 +48,7 @@ This is an analysis on Lichess Puzzle Database obtained from https://database.li
 
 - The Popularity field consists of puzzle ratings rated between -100 and 100. Popularity Range was added with 5 categories, 1 - Unpopular, 2 - Disliked, 3 - Mediate, 4 - Liked and 5 - Popular.  
 
-- The NbPlays field shows the number of plays the puzzle received. It consisted of number of plays ranging from 0 to 310341. NbPlays Range was added with 6 categories, <51,725, <103,450, <155,175, <258,625, <258,625 and >=258,625.
+- The NbPlays field shows the number of plays the puzzle received. It consisted of number of plays ranging from 0 to 310341. NbPlays Range was added with 6 categories, <51,725, <103,450, <155,175, <206,900, <258,625 and >=258,625.
 <br/>
 
 
