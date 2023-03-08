@@ -58,16 +58,24 @@ This is an analysis on Lichess Puzzle Database obtained from https://database.li
 
 <p align="center">
 Dashboard 1: <br/>
-  <img src="https://user-images.githubusercontent.com/122200000/223376168-4b1bfc43-c8a0-45b5-96c2-b294a99e90aa.png" alt="Dashboard 1"/>
+  <img src="https://user-images.githubusercontent.com/122200000/223697335-75f53db2-be85-4ec0-8eec-b9d8be3e5824.png" alt="Dashboard 1"/>
 </p>
 <br />
 
 <br />
 <p align="center">
 Dashboard 2:  <br/>
-<img src="https://user-images.githubusercontent.com/122200000/223208495-362094a3-a322-42d9-a82c-3b8a5427d729.png" alt="Dashboard 2"/>
+<img src="https://user-images.githubusercontent.com/122200000/223697675-e2bce478-1762-412c-ab46-5706db45f95c.png" alt="Dashboard 2"/>
 </p>
 <br />
+
+<br />
+<p align="center">
+Dashboard 3:  <br/>
+<img src="https://user-images.githubusercontent.com/122200000/223699048-908d92b3-06fc-4eec-9d8d-f53fb5920c96.png" alt="Dashboard 3"/>
+</p>
+<br />
+
 
 <h2>Discussions</h2>
 
@@ -82,3 +90,5 @@ Dashboard 2:  <br/>
 - Majority of the puzzles tend to get played less than (51,725) times with an overwhelming total of (3,079,850). The remainder of (679) puzzles are played more than (103,450) times.
 
 - Across the puzzle rating ranges, popular puzzles has the highest number of puzzles with total of (2,861,397). This is followed by liked, mediate, unpopular and disliked with a total of (150,934), (30,306), (22,835) and (15,057) respectively.
+
+- The top 3 themes that appear in puzzles shows a decent appearance across all puzzle rating ranges. Whereas, the top 3 themes that seldom appear in puzzles only appear in (0.02%) to (0.03%) of puzzles.
